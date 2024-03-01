@@ -1,4 +1,4 @@
-#include "Carte.h"
+#include "../header/Carte.h"
 
 void afficheCarte(struct Carte c)// affiche la valeur de la carte 'c'
 {
