@@ -1,4 +1,4 @@
-#include "Plateau.h"
+#include "../header/Plateau.h"
 
 
 struct Plateau* creerPlateau()//initialise le plateau en lui allouant tous les espaces memoires necessaires
