@@ -1,4 +1,4 @@
-#include "MaitreJeu.h"
+#include "../header/MaitreJeu.h"
 
 void error(char *msg)//arrête le programme et envoie un message d'erreur au système
 {
